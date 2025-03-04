@@ -44,11 +44,11 @@
 </script> -->
 
 <template>
-    <div class="row justify-content-center" style="margin-top: 5rem;">
-        <div class="col-5 text-center"  style="margin-top: auto; margin-bottom: auto;">
+    <div class="row justify-content-center" style="margin-top: 5rem; height: 70vh;">
+        <div class="col-5 text-center myCard matesc"  style="font-size: larger; margin-top: auto; margin-bottom: auto; padding: 3rem; background: linear-gradient(90deg, #e7e7e7, #ffffff)">
             <p>Your comments and suggestions are always welcome. My readers are my friends, and as I always knew I owed my legal clients the best possible representation, I also know I owe my readers stories you can enjoy. If you enjoy my books, please tell your friends, so they can join our reader’s family. I enjoy hearing from new as well as old friends.</p>
-            <p>Feel free to email me directly at </p>
-            <h2><strong>Leon1card@gmail.com</strong></h2>
+            <p>Feel free to email me directly at <a href="Leon1card@gmail.com">Leon1card@gmail.com</a> </p>
+            <!-- <h2><strong>Leon1card@gmail.com</strong></h2> -->
             <!-- <p>or </p>
             <p>fill out the form below</p> -->
         </div>

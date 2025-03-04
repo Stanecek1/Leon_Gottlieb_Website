@@ -1,11 +1,11 @@
 
 <template>
-    <div>
+    <div class="matesc" style="font-size: larger;">
       
       <div class="row justify-content-center mt-5">
-        <div class="col-5 mb-5 d-flex justify-content-center">
+        <div class="col-7 mb-5 d-flex justify-content-center myCard" style=" padding: 1rem; background: linear-gradient(90deg, #e7e7e7, #ffffff);">
           <div style="display: flex; align-items: center;">
-            <img class="ml-auto" src="images/bio1.PNG" style="height: 320px;" alt="">
+            <img class="ml-auto" src="images/bio1.PNG" style="height: 400px;" alt="">
           </div>
           <div class="my-auto ms-5">
             <h1 class="text-left py-3 fancy">Leon S. Gottlieb</h1>
@@ -14,7 +14,7 @@
         </div>
       </div>
       <div class="row justify-content-center">
-        <div class="col-5 mb-5 d-flex justify-content-center">
+        <div class="col-7 mb-5 d-flex justify-content-center myCard" style="padding: 1rem; background: linear-gradient(90deg, #ffffff, #e7e7e7);">
           <div class="my-auto ">
             <p class="me-5">Attending Pace University set the stage for Leon’s entry to St. John’s Law School, where he made Law Review and graduated as one of the top students in his class. 
               He obtained a position with one of the large Wall Street brokerage houses. His desire to try cases, had the other members of the legal team betting he would lose the next one, based on the odds ‘you can’t keep winning.’ He did. As one of the few attorneys who understood the legal end of the brokerage business, at age 28 he was named general counsel of one of the world’s largest stock brokerage firms. Haunted by the three hour a day commute to Wall Street, and finding himself running down the street, he asked himself the question: “Why am I running, I’m going for lunch!”
@@ -22,13 +22,13 @@
             <p class="me-5">In search of a better way of life, Leon resigned his position, and moved his young family to California where he represented many of the Wall St. brokerage houses as a trial attorney. After eighteen years of loving his law practice with a success rate of 90% +, boredom set in.</p>
           </div>
           <div style="display: flex; align-items: center;">
-            <img class="ml-auto" src="images/bio2.PNG" style="height: 320px;" alt="">
+            <img class="ml-auto" src="images/bio2.PNG" style="height: 400px;" alt="">
           </div>
         </div>
       </div>
 
       <div class="row justify-content-center mb-5">
-        <div class="col-5 d-flex justify-content-center">
+        <div class="col-7 d-flex justify-content-center myCard" style="padding: 1rem; background: linear-gradient(90deg, #e7e7e7, #ffffff);">
           <div style="display: flex; align-items: center;">
             <img class="ml-auto m" src="images/bio3.PNG" style="height: 200px;" alt="">
           </div>

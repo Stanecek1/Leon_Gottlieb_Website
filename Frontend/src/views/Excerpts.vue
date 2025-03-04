@@ -5,10 +5,10 @@
     <div style="">
         <!-- <h1 class="text-center py-4 fancy mb-0" style="background-color: rgb(255, 255, 255); font-size: 90px;">Excerpts</h1> -->
 
-        <div style="display: flex; width: 80vw;  justify-self: center; margin-top: 1rem;" class="gap-3">
-            <div class="container teal" style="border: solid black 1px;">
-                <h1 class="text-center fancy">Impossible</h1>
-                <div class="mx-5">
+        <div style="width: 80vw;  justify-self: center; margin-top: 1rem;" class="gap-3">
+            <div class="container " style="border: solid black 1px; padding-top: 1rem; padding-bottom: 1rem; margin-bottom: 1rem; background: linear-gradient(90deg, #e7e7e7, #ffffff);">
+                <h1 class="text-left fancy" style="margin-left: 2.8rem;">Impossible</h1>
+                <div class="mx-5 matesc">
                     <p>(Grandpa talking to his grandson, David, who has been arrested for rape.)</p>
 
                     <p>“The DNA tests came back positive. How can you explain the sperm test DNA? How do you explain your blood in her apartment — where you told me you’ve never been?” Jabbing his finger at David. “You’ve been jerking me around. You would let me walk you into the courtroom and watch you get trampled by the stampede of questions the prosecutor would ask!” </p>
@@ -35,9 +35,9 @@
                 </div>
             </div>
 
-            <div class="container teal" style="border: solid black 1px;">
-                <h1 class="text-center fancy ">Homeless</h1>
-                <div class="mx-5">
+            <div class="container " style="border: solid black 1px; padding-top: 1rem; padding-bottom: 1rem; margin-bottom: 1rem; background: linear-gradient(90deg, #ffffff, #e7e7e7);">
+                <h1 class="text-left fancy" style="margin-left: 2.8rem;">Homeless</h1>
+                <div class="mx-5 matesc">
                     <p>The novel Homeless depicts the lives of seven people from birth through life. Each is selected by the fickle finger of fate and cast into homelessness. Each story is as unique as their names and each will evoke feelings in you which will change the way you view homeless people.</p>
 
                     <h2 class="fancy" style="font-size: 25px;">Rose’s Story</h2>
@@ -84,9 +84,9 @@
                 </div>
             </div>
 
-            <div class="container teal" style="border: solid black 1px;">
-                <h1 class="text-center fancy">Hysteria</h1>
-                <div class="mx-5">
+            <div class="container " style="border: solid black 1px; padding-top: 1rem; padding-bottom: 1rem; margin-bottom: 1rem; background: linear-gradient(90deg, #e7e7e7, #ffffff);">
+                <h1 class="text-left fancy" style="margin-left: 2.8rem;">Hysteria</h1>
+                <div class="mx-5 matesc">
                     <p>(Hysteria is the story of a small-town doctor, the leading citizen of his community, suddenly drawn into the Hysteria created by the McMillon cases and its national publicity. I n the flash of an eye, the idyllic life of the doctor and his family is turned upside down.)</p>
 
                     <p>“As he viewed the headline, his knees felt like they were giving way, and he was in danger of collapsing. It took all his concentration to remain erect. He could feel his blood pressure reaching new heights. With a great deal of effort, he managed to get to the doctor’s lounge and sit down. Ignoring the paper, he concentrated on relaxing, lowering his blood pressure and heart rate.</p>                
