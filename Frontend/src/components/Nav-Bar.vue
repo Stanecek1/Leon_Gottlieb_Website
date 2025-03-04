@@ -19,27 +19,27 @@
             menuOptionsRight: [
             {
                 type: "link",
-                text: "Home",
+                text: "home",
                 path: { name: "home"},
             },
             {
                 type: "link",
-                text: "Books",
+                text: "books",
                 path: { name: "books"},
             },
             {
                 type: "link",
-                text: "About",
+                text: "about",
                 path: { name: "about"},
             },
             {
                 type: "link",
-                text: "Contact",
+                text: "contact",
                 path: { name: "contact"},
             },
             {
                 type: "link",
-                text: "Excerpts",
+                text: "excerpts",
                 path: { name: "excerpts"},
             },
             ],
@@ -51,6 +51,7 @@
   
   <style lang="scss">
     .vnb {
+        font-family: matesc;
         display: grid;
         justify-content: top;
         background: rgb(245, 245, 245) !important;
@@ -60,12 +61,19 @@
       }
     .vnb a {
       color: black;
+      font-size: large;
     }
     .vnb__menu-options{
       padding-left: 0;
     }
     .vnb__menu-options .vnb__menu-options--left{
       padding-left: 0;
+    }
+    .vnb__brand-image-wrapper{
+      display: none;
+    }
+    .vnb__menu-options--left{
+      display: none !important;
     }
 
     
