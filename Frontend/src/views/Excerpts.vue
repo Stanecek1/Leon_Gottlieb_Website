@@ -35,12 +35,12 @@
                         <p>“Grandpa, I would never lie to you. I’m baffled, but I didn’t rape her, and I didn’t have sex with her. I don’t know where the evidence came from, but I didn’t put it where it was found.</p>
                     </div>
                 </div>
-                <div class="col-4" style="display: flex; justify-content: center; align-items: center;">
+                <div class="col-4" style="display: flex; justify-content: center; margin-top: 1rem;">
                     <img class="ml-auto m" src="images/Impossible.PNG" style="height: 500px;" alt="">
                 </div>
             </div>
 
-            <div class="row "  style=" padding-top: 1rem; padding-bottom: 1rem; background: linear-gradient(90deg, #ffffff, #e7e7e7); border-bottom: 1px solid black;">
+            <div class="row"  style=" padding-top: 1rem; padding-bottom: 1rem; background: linear-gradient(90deg, #ffffff, #e7e7e7); border-bottom: 1px solid black;">
                 <div class="col-8">
                     <h1 class="text-left fancy" style="margin-left: 2.8rem;">Homeless</h1>
                     <div class="mx-5 matesc">
@@ -89,7 +89,7 @@
                         <p class="text-center"><strong>There are four more stories, each just as gripping.</strong></p>
                     </div>
                 </div>
-                <div class="col-4" style="display: flex; justify-content: center; align-items: center;">
+                <div class="col-4" style="display: flex; justify-content: center; margin-top: 1rem;">
                     <img class="ml-auto m" src="images/HOMELESS COVER.PNG" style="height: 500px;" alt="">
                 </div>
             </div>
