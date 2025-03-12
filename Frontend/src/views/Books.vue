@@ -34,7 +34,7 @@ export default {
             <h1 class="text-center py-4 fancy mb-0" style="background-color: rgb(236, 236, 236); margin-top: -7px">Impossible</h1>
             <div class="row justify-content-center my-auto py-2">
                 <div class="col-6 text-center pt-5">
-                    <p><strong>Impossible</strong> is the story of a college student accused of raping an old girlfriend is Mr. Gottlieb’s  first book. If the student, (David) was telling the truth, how did his sperm get to be found in her vagina, and his blood on her bed post? This courtroom thriller will keep you wondering how the evidence got where it was. Was David lying or was there more than meets the eye. This book will be listed as fiction, but you decide if is really fiction or based on truth, but then again isn’t most fiction based on truth?</p>
+                    <p>Mr. Gottlieb’s debut novel, <strong>Impossible</strong>, tells the gripping story of a college student accused of raping an old girlfriend. If the student, (David) was telling the truth, how did his sperm get to be found in her vagina, and his blood on her bed post? This courtroom thriller will keep you wondering how the evidence got where it was. Was David lying or was there more than meets the eye. This book will be listed as fiction, but you decide if is really fiction or based on truth, but then again isn’t most fiction based on truth?</p>
                     <p>How the hell did his sperm get in her vagina and his blood get in her apartment, if he hasn’t been near her for over three months, and has never been in her new apartment? IMPOSSIBLE!</p>
                 </div>
             </div>
